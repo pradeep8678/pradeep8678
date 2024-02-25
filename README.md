@@ -13,7 +13,7 @@ I am front end developer who loves React !
 * ⚡  Just a crazy developer who loves to develope creative stuff....>\_<
 
 <a href="https://www.github.com/pradeep8678" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-the-badge&color=84cc16&labelColor=171717" /></a>
 
 ### Skills
 
@@ -31,8 +31,6 @@ src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pradeep8678"><img src="https://github-readme-stats.vercel.app/api?username=pradeep8678&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pradeep8678's GitHub stats" /></a>
+<a href="http://www.github.com/pradeep8678"><img src="https://github-readme-stats.vercel.app/api?username=pradeep8678&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=10b981&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="pradeep8678's GitHub stats" /></a>
 
-<a href="http://www.github.com/pradeep8678"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep8678&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/pradeep8678"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pradeep8678&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/pradeep8678"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep8678&stroke=10b981&background=171717&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
