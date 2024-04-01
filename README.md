@@ -30,3 +30,8 @@ src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-t
 <a href="http://www.github.com/pradeep8678"><img src="https://github-readme-stats.vercel.app/api?username=pradeep8678&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="pradeep8678's GitHub stats" /></a>
 
 <a href="http://www.github.com/pradeep8678"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep8678&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<h2 align="center">💖𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+  </div>
