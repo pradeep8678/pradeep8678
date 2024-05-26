@@ -1,16 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pradip Singh
+Hello![](https://media.tenor.com/E6oiUf7S48AAAAAi/pepega-write.gif)My name is Pradip Singh
 ==========================================================================================================================================
 
-Web Developer And Designer
+ᗯEᗷ ᗪEᐯEᒪOᑭEᖇ ᗩᑎᗪ ᗪEᔕIGᑎEᖇ
+
+
+ＰＲＡＳＩＭ ＣＯＭＭＵＮＩＴＹ ＷＯＲＫＳ
 --------------------------
 
 I am front end developer who loves React !
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [pradeepsinghania906@gmail.com](mailto:pradeepsinghania906@gmail.com)
-* 🧠  Visit my Portfolio here - https://pradip-portfolio.onrender.com/
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Just a crazy developer who loves to develope creative stuff....>\_<
+* 🌍 I'm based in India
+* ✉️ Contact me at [pradeepsinghania906@gmail.com](mailto:pradeepsinghania906@gmail.com)
+* 🧠 Visit my Portfolio here - https://pradip-portfolio.onrender.com/
+* 🤝 Open to collaborating on Interesting projects
+* ⚡ Just a crazy developer who loves to develope creative stuff....>\_<
 
 <a href="https://www.github.com/pradeep8678" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
