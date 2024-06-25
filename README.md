@@ -4,7 +4,6 @@ Hello![](https://media.tenor.com/E6oiUf7S48AAAAAi/pepega-write.gif)My name is Pr
 ᗯEᗷ ᗪEᐯEᒪOᑭEᖇ ᗩᑎᗪ ᗪEᔕIGᑎEᖇ
 
 
-ＰＲＡＳＩＭ ＣＯＭＭＵＮＩＴＹ ＷＯＲＫＳ
 --------------------------
 
 I am front end developer who loves React !
