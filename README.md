@@ -10,7 +10,7 @@ I am front end developer who loves React !
 
 * 🌍 I'm based in India
 * ✉️ Contact me at [pradeepsinghania906@gmail.com](mailto:pradeepsinghania906@gmail.com)
-* Visit my latest Portfolio here - https://next-portfolio-liard-gamma.vercel.app/contact
+* 🧠 Visit my latest Portfolio here - https://next-portfolio-liard-gamma.vercel.app/contact
 * 🧠 Visit my Portfolio here - https://pradip-portfolio.onrender.com/
 * 🤝 Open to collaborating on Interesting projects
 * ⚡ Just a crazy developer who loves to develope creative stuff....>\_<
