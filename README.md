@@ -1,18 +1,17 @@
 Hello![](https://media.tenor.com/E6oiUf7S48AAAAAi/pepega-write.gif)My name is Pradip Singh
 ==========================================================================================================================================
 
-ᗯEᗷ ᗪEᐯEᒪOᑭEᖇ ᗩᑎᗪ ᗪEᔕIGᑎEᖇ
+Cloud Engineer and Web Developer
 
 
 --------------------------
 
-I am front end developer who loves React !
+I am a Cloud Engineer who loves Infrasructures !
 
 * 🌍 I'm based in India
 * ✉️ Contact me at [pradeepsinghania906@gmail.com](mailto:pradeepsinghania906@gmail.com)
 * 🧠 Visit my latest Portfolio here - https://pradip-portfolio-eng.vercel.app/
 * 🤝 Open to collaborating on Interesting projects
-* ⚡ Just a crazy developer who loves to develope creative stuff....>\_<
 
 <a href="https://www.github.com/pradeep8678" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
