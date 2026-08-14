@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me
-Hi, I’m **Gurnoor Kaur Pawan**, a Cloud engineering enthusiast with practical experience in Linux administration and Google Cloud Platform (GCP). Skilled in provisioning and
+Hi, I’m **Pradip Singh**, a Cloud engineering enthusiast with practical experience in Linux administration and Google Cloud Platform (GCP). Skilled in provisioning and
 managing cloud infrastructure including Compute Engine virtual machines, VPC networking, Cloud Storage, and Cloud Run deployments.
 Experienced in monitoring infrastructure, analyzing logs, and troubleshooting systems to maintain reliable and secure cloud environments.
 
