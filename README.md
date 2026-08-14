@@ -5,7 +5,7 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FDE68A&center=true&vCenter=true&width=600&lines=Cloud+Engineer;GCP+%7C+Linux+%7C+Flask;Building+Scalable+Cloud+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FDE68A&center=true&vCenter=true&width=600&lines=Cloud+and+DevOps+Engineer;GCP+%7C+Linux+%7C+Flask;Building+Scalable+Cloud+Solutions"/>
 </p>
 
 ---
@@ -83,11 +83,11 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ## 📌 Featured Projects
 
-### 🔹 AcaDex – Cloud-Based Student Management System
-A scalable cloud-based platform for managing student data and academic operations.
+### 🔹 Rajasthan Govt Muncipality - Waste Management System
+A Govt Muncipality Waste Management System.
 
-- Built with **Flask (backend)** and **HTML/CSS/JS (frontend)**  
-- Integrated cloud infrastructure for centralized data handling  
+- Designed Infrastructure From Scratch and Deployed Application**  
+- Architecture able to scale millions of request per second on daily basis. 
 - Focused on authentication, performance, and scalability  
 
 ---
