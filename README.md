@@ -111,7 +111,7 @@ A responsive portfolio showcasing my technical skills and projects.
 
 ## 📈 Experience
 
-**IT Intern – Team Computers Pvt. Ltd. (2025)**  
+**Team Computers -- Cloud Engineer**  
 - Worked extensively with GCP services  
 - Deployed real-world applications and cloud architectures  
 - Gained practical exposure to Linux networking and security  
