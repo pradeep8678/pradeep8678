@@ -129,14 +129,14 @@ A responsive portfolio showcasing my technical skills and projects.
 ---
 
 ##  Connect With Me
-- 📧 Email: gurnoorpawan2910@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/gurnoor-kaur-pawan-3b6976212  
-- 💻 GitHub: https://github.com/Gurnoor2910
+- 📧 Email: pradeepsinghania906@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/pradip-k-singh-47ac/ 
+- 💻 GitHub: https://github.com/pradeep8678
 
 ---
 
 ## 💡 Vision
-I aim to grow as a **Cloud Engineer**, building scalable systems and contributing to modern cloud-driven solutions that solve real-world problems.
+I aim to grow as a **Cloud and DevOps Engineer**, building scalable systems and contributing to modern cloud-driven solutions that solve real-world problems.
 
 ---
 
