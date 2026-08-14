@@ -1,6 +1,6 @@
 <!-- 🌌 FUTURISTIC ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Pradip%20Singh%20Pradip&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7C%20Driven%20by%20Curiosity,%20Defined%20by%20Purpose%20%7C&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Pradip%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7C%20Driven%20by%20Curiosity,%20Defined%20by%20Purpose%20%7C&descAlignY=60&descSize=18"/>
 </p>
 
 <!-- 🧠 Typing Animation -->
