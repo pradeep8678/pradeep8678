@@ -116,6 +116,15 @@ A responsive portfolio showcasing my technical skills and projects.
 - Deployed real-world applications and cloud architectures  
 - Gained practical exposure to Linux networking and security  
 
+**Cloud Ambassadors -- Cloud Engineer**  
+- Worked extensively with GCP services  
+- Troubleshooted The Architecture.  
+- Implemented Automation by Pipelines
+
+**TechEunoia International -- MERN Stack Developer**  
+- Created ERP softwares from Scratch.  
+- Maintain the Code of Existing Applications and Optimized it.  
+
 ---
 
 ### ✍️ Inspirational Quote
